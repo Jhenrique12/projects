@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("src/world-cup.jpg");
+    background-image: url("https://images.unsplash.com/photo-1637203724929-5a5b60d5d09c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1865&q=80");
     background-size: cover;
     background-position: center center;
     display: flex;
@@ -14,7 +14,8 @@ body {
     min-height: 100vh;
     font-family: "Poppins", sans-serif;
     margin: 0;
-    color: #fff
+    color: gold;
+    text-shadow: 1px 2px black;
 }
 
 h1 {
@@ -50,5 +51,5 @@ footer{
 
 footer a {
     text-decoration: none;
-    color: white;
+    color: gold;
 }

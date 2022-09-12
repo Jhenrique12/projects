@@ -20,7 +20,10 @@ function countdown () {
     hoursEl.innerHTML = hours;
     minutesEl.innerHTML = minutes;
     secondsEl.innerHTML = seconds;
+
+    // console.log(days, hours, minutes, seconds);
 }
+
 
 //Chamada inicial - Initial call
 
