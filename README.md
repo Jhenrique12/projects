@@ -1,7 +1,7 @@
 # Meu portifólio / My portfolio 💻
 
 ## ✏️ Resumo / Summary
-  Meu portifólio de projetos onde contém meus repositórios com aplicações utilizando as tecnologias que trabalho / 
+  Meu portifólio de projetos onde contém meus repositórios com aplicações utilizando as tecnologias que trabalho /   
   My portfolio of projects which contains my repositories with applications using the technologies I work with.
 
 
