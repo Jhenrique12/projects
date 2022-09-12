@@ -22,3 +22,13 @@
  
  A Front end project of a book store e-commerce made with Angular and consuming books API;
  
+ 
+ 4- Mini projeto de um relógio de contagem regressiva pra um determinado evento / 
+ Mini project of a countdow timer;
+ 
+ 5- Mini projeto de uma calculadora de gorjetas /
+ Mini project of a tip calculator;
+ 
+ 
+ 
+ 
