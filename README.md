@@ -25,7 +25,11 @@
  
  5- **tip-calculator:**  
  Mini projeto de uma calculadora de gorjetas /  
- Mini project of a tip calculator;
+ Mini project of a tip calculator;  
+
+6- **quiz-app**  
+ Mini projeto de um quiz sobre JavaScript /  
+ Mini project of a JavaScript quiz;
  
  
  
